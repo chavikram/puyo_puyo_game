@@ -14,7 +14,6 @@ Create following folder structure
 2. Create a folder image and put all images inside this folder.
 
 Now run command
-#> javac game/PuyoGame.java
-.
-#> java game.PuyoGame
+1. To compile   javac game/PuyoGame.java
+2. To execute   java game.PuyoGame
 
