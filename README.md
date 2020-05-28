@@ -18,4 +18,4 @@ Now run command
 2. To execute   java game.PuyoGame
 
 wiki page:
-https://https://github.com/chavikram/puyo_puyo_game/wiki
+https://github.com/chavikram/puyo_puyo_game/wiki
