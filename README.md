@@ -17,3 +17,5 @@ Now run command
 1. To compile   javac game/PuyoGame.java
 2. To execute   java game.PuyoGame
 
+wiki page:
+https://https://github.com/chavikram/puyo_puyo_game/wiki
