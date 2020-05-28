@@ -10,16 +10,10 @@ First download  all images and source code file.
 
 Create following folder structure
 
-BASE Folder/
-            game/
-                 PuyoGame.java
-            image/
-                 puyo_blue.jpg
-                 puyo_green.jpg
-                 puyo_red.jpg
-                 puyo_yellow.jpg
-                 switch.jpg
-                 up.JPG
-                 arr1.jpg
-                 compensate.jpg
-                 
+1. Create a folder game and put PuyoGame.java inside this folder
+2. Create a folder image and put all images inside this folder.
+
+Now run command
+#> javac game/PuyoGame.java
+#> java game.PuyoGame
+
